@@ -1,0 +1,16 @@
+{
+    "name": "danilocgsilva/nodump_database_cli",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\NodumpDatabaseCli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Silva",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
